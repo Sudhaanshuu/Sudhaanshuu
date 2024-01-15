@@ -13,7 +13,7 @@ I'm Sudhaanshu, a passionate Engineering student graduating in 2025. I am also a
 - 💬 Let's collaborate on GitHub! Feel free to reach out and contribute to my projects.
 - 📫 You can find more about me on my [personal website](https://sudhanshuuu.netlify.app/).
 
-Thanks for stopping by! 😊
+Thanks for stopping by! 😊😊
 
 
 <!---
