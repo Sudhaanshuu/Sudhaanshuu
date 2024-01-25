@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋😍
 
 I'm Sudhaanshu, a passionate Engineering student graduating in 2025. I am also a proud SOH Finalist, problem solver, and enthusiast in the field of LeetCode.
 
