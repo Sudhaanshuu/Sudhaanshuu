@@ -39,12 +39,18 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sudhaanshuu/Sudhaanshuu/output/snake.svg" alt="Snake Animation" />
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhaanshuu&" alt="Sudhanshu Kumar" />
+</div>
 
 ## About Me
 
 - 🌱 I'm currently learning and developing skills in web development and software engineering.
 - 💬 Let's collaborate on GitHub! Feel free to reach out and contribute to my projects.
 - 📫 You can find more about me on my [personal website](https://sudhanshuuu.netlify.app/).
+
+
+
 
 ---
 
