@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/sudhan.shuu/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
   <a href="mailto:sudhanshuu@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/sudhanshuu/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-  <a href="https://github.com/sudhaanshuu/sudhaanshuu"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://github.com/sudhaanshuu/sudhaanshuu"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub Badge"/></a>
 </div>
 
 ---
