@@ -1,3 +1,5 @@
+
+
 <h2 align="left">Hi there! 👋 I'm Sudhaanshu, an Engineering Student from India.</h2>
 
 ---
@@ -44,7 +46,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhaanshuu&" alt="Sudhanshu Kumar" />
 </div>
 
-## About Me
+## About Me ![Profile Views](https://komarev.com/ghpvc/?username=sudhaanshuu&color=orange)
 
 - 🌱 I'm currently learning and developing skills in web development and software engineering.
 - 💬 Let's collaborate on GitHub! Feel free to reach out and contribute to my projects.
