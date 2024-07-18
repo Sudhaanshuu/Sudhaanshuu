@@ -12,7 +12,8 @@
 
 ---
 
-<img align="right" height="150" src="https://giphy.com/embed/unxCGmTuBvwo2djRLA" alt="Picture" />
+<img align="right" height="180" src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" alt="Picture" />
+
 
 
 ### Skills & Technologies
