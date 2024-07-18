@@ -12,7 +12,8 @@
 
 ---
 
-<img align="right" height="150" src="Sudhanshu.jpg" alt="Profile Picture" />
+<img align="right" height="150" src="https://giphy.com/embed/unxCGmTuBvwo2djRLA" alt="Picture" />
+
 
 ### Skills & Technologies
 
