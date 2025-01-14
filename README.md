@@ -44,7 +44,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sudhaanshuu/Sudhaanshuu/output/snake.svg" alt="Snake Animation" />
-
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhaanshuu" alt="Sudhanshu's GitHub Streak Stats" />
+</div>
 
 ## About Me ![Profile Views](https://komarev.com/ghpvc/?username=sudhaanshuu&color=orange)
 
