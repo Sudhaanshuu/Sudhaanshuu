@@ -52,7 +52,7 @@
 
 - 🌱 I'm currently learning and developing skills in web development and software engineering.
 - 💬 Let's collaborate on GitHub! Feel free to reach out and contribute to my projects.
-- 📫 You can find more about me on my [personal website](https://sudhanshuuu.netlify.app/).
+- 📫 You can find more about me on my [personal website](https://sudhanshuu.vercel.app/).
 
 
 
